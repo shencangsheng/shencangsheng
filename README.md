@@ -7,7 +7,7 @@
 ### 💻 Portfolio
 
 - 🗄️ [EasyDB](https://github.com/shencangsheng/easy_db)  
-  A fast, versatile SQL assistant for querying text files like a database, supporting CSV, NdJson, JSON, and Parquet formats seamlessly.
+  A fast, versatile SQL assistant that can treat multiple text files as a database for querying, seamlessly supporting CSV, NdJson, JSON, and Parquet formats.
 
 - 🔌 [Bedtools Postgres Plugins](https://github.com/shencangsheng/pg_bedtools_rs)  
   A PostgreSQL plugin for bedtools, implemented in Rust.
