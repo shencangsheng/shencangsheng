@@ -6,7 +6,7 @@
 
 ### 💻 Portfolio
 
-- 🗄️ [EasyDB](https://github.com/shencangsheng/easy_db)  
+- 🗄️ [EasyDB](https://github.com/shencangsheng/easydb_app)  
   A fast, versatile SQL assistant that can treat multiple text files as a database for querying, seamlessly supporting CSV, NdJson, JSON, and Parquet formats.
 
 - 🔌 [Bedtools Postgres Plugins](https://github.com/shencangsheng/pg_bedtools_rs)  
