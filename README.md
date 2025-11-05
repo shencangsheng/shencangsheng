@@ -7,7 +7,7 @@
 ### 💻 Portfolio
 
 - 🗄️ [EasyDB](https://github.com/shencangsheng/easydb_app)  
-  EasyDB is a lightweight SQL desktop client built with Rust. It supports CSV, JSON, NDJSON, Excel, and Parquet files out of the box, enabling high-performance queries on large text files (hundreds of MB to multiple GB) with minimal hardware resources.
+  EasyDB is a lightweight Rust-based desktop tool that lets you query local CSV, Excel, and JSON files directly with SQL. With a built-in query engine, it requires no external database and efficiently handles large files from hundreds of MB to several GB.
 
 - 🔌 [Bedtools Postgres Plugins](https://github.com/shencangsheng/pg_bedtools_rs)  
   A PostgreSQL plugin for bedtools, implemented in Rust.
