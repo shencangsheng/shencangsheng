@@ -7,7 +7,7 @@
 ### 💻 Portfolio
 
 - 🗄️ [EasyDB](https://github.com/shencangsheng/easydb_app)  
-  EasyDB is a lightweight desktop app built with Tauri and Rust, enabling you to query local CSV, Excel, and JSON files with SQL—no external database required. It handles datasets from hundreds of MB to several GB with ease. 让所有数据说同一种“语言”
+  EasyDB is a lightweight desktop app built with Tauri + Rust, powered by Apache DataFusion. Query local CSV, TSV, Text, NdJson, Excel, Parquet files and MySQL databases directly with SQL — no external database required. Handles datasets from hundreds of MB to several GB with ease. 让所有数据说同一种“语言”
 
 - 🔌 [Bedtools Postgres Plugins](https://github.com/shencangsheng/pg_bedtools_rs)  
   A PostgreSQL plugin for bedtools, implemented in Rust.
