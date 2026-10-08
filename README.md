@@ -1,6 +1,6 @@
 # Hi, I'm Cangsheng 👋
 
-**Platform Architect in China** · **AI full-stack engineer** · **Open-source developer**
+**Platform Architect** · **AI full-stack engineer** · **Open-source developer**
 
 I design and build end-to-end AI applications and developer platforms, spanning Java and Rust backend systems, data tooling, desktop applications, and production infrastructure.
 
