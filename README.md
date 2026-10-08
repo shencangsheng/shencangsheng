@@ -17,7 +17,7 @@ I design and build end-to-end AI applications and developer platforms, spanning 
 
 ### 🏆 Highlighted Work
 
-- **[EasyDB](https://github.com/shencangsheng/easydb_app)** — A lightweight desktop app for querying local files and MySQL with SQL. Built with **Tauri + Rust + Apache DataFusion**; supports CSV, TSV, text, NDJSON, Excel, Parquet, and datasets from hundreds of MB to several GB. *让所有数据说同一种“语言”*
+- **[EasyDB](https://github.com/shencangsheng/easydb_app)** — A lightweight desktop app for querying local files and MySQL with SQL. Built with **Tauri + Rust + Apache DataFusion**; supports CSV, TSV, text, NDJSON, Excel, Parquet, and datasets from hundreds of MB to several GB. **500+ ⭐** · *让所有数据说同一种“语言”*
 
 - **[Bedtools PostgreSQL Plugin](https://github.com/shencangsheng/pg_bedtools_rs)** — A Rust implementation of a PostgreSQL extension that brings bedtools capabilities into database workflows.
 
