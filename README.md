@@ -1,8 +1,8 @@
 # Hi, I'm Cangsheng 👋
 
-**Platform Architect** · **AI full-stack engineer** · **Open-source developer**
+**Platform Architect** · **AI full-stack & DevOps engineer** · **Open-source developer**
 
-I design and build end-to-end AI applications and developer platforms, spanning Java and Rust backend systems, data tooling, desktop applications, and production infrastructure.
+I design and build end-to-end AI applications and developer platforms, spanning Java and Rust backend systems, data tooling, desktop applications, and the DevOps lifecycle from build and delivery to deployment and operations.
 
 ---
 
@@ -11,7 +11,7 @@ I design and build end-to-end AI applications and developer platforms, spanning 
 - **AI applications & platforms** — end-to-end products that connect intelligent capabilities with reliable production systems.
 - **Data tooling** — local analytics tools built with Rust, Tauri, and Apache DataFusion.
 - **Database extensions** — PostgreSQL plugins that bring specialized workflows closer to SQL.
-- **Developer infrastructure** — self-hosted services for reliable package and image distribution.
+- **DevOps & developer infrastructure** — build, delivery, deployment, and operations workflows, including self-hosted services for reliable package and image distribution.
 
 ---
 
@@ -52,6 +52,6 @@ I design and build end-to-end AI applications and developer platforms, spanning 
 
 ### 📫 Reach Me
 
-Open to collaboration and conversations about AI applications, platform architecture, Java, Rust, and developer infrastructure.
+Open to collaboration and conversations about AI applications, platform architecture, Java, Rust, DevOps, and developer infrastructure.
 
 **Email:** [shencangsheng@126.com](mailto:shencangsheng@126.com)
