@@ -32,16 +32,16 @@ I design and build end-to-end AI applications and developer platforms, spanning 
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shencangsheng&theme=vue-dark&show_icons=true&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shencangsheng&theme=vue&show_icons=true&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api?username=shencangsheng&theme=vue&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-vue-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./profile/stats-vue.svg">
+          <img alt="GitHub statistics" src="./profile/stats-vue.svg">
         </picture>
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shencangsheng&theme=vue-dark&layout=compact&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shencangsheng&theme=vue&layout=compact&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shencangsheng&theme=vue&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-vue-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-vue.svg">
+          <img alt="Most used languages" src="./profile/top-langs-vue.svg">
         </picture>
       </td>
     </tr>
